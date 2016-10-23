@@ -2,8 +2,8 @@
 using namespace cv;
 int main()
 {
-
+	//test456
 	Mat img = imread("C:\img.jpg");
-	imshow("Hello World!", img);
+	imshow("Hello World2!", img);
 	waitKey();
 }
