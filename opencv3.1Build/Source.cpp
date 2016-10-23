@@ -4,6 +4,6 @@ int main()
 {
 	//test456
 	Mat img = imread("C:\img.jpg");
-	imshow("Hello World2!", img);
+	imshow("Hello World2  test2!", img);
 	waitKey();
 }
